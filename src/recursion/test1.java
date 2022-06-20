@@ -7,6 +7,7 @@ public class test1 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         String s = sc.next();
+        String s1 = sc.next();
         Deque<Character> stack = new LinkedList<>();
 
         stack.isEmpty();
