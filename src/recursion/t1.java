@@ -7,6 +7,7 @@ public class t1 {
         Map<Integer,Integer> map  = new HashMap<>();
 
         Scanner sc = new Scanner(System.in);
+        Scanner sc1 = new Scanner(System.in);
         ListNode dummy = new ListNode();
         int target = sc.nextInt();
         int n = sc.nextInt();
